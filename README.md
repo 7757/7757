@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [IFocus](http://ifs.shanenergy.com:4009/)
 
-- 🌱 I’m currently learning **人工智能 AIGC 嵌入式开发**
+- 🌱 I’m currently learning ** AIGC 嵌入式开发**
 
 - 👯 I’m looking to collaborate on [Fandcode](https://fandcode.com/)
 
@@ -15,12 +15,21 @@
 
 - 📫 How to reach me **laiyi7757@gamil.com**
 
-- ⚡ Fun fact **旅游 DIY 模块**
+- ⚡ l like  **旅游 DIY 听歌 天马行空的乱想 让一些硬件动起来**
 
 
 </br>
 </br>
 </br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
+<h4 align="left">about me:</h3>
 
+- 🫥  ```丰富的 JAVA 开发和系统架构设计经验，能够熟练掌握各种 JAVA 技术和框架，具备良好的代码编写和维护能力。 ```
+- 😐  ```熟悉网络通信技术，掌握 TCP/IP、HTTP、RPC 等协议，具备良好的网络编程能力，能够设计和实现高效稳定的网络应用 ```
+- 🫤  ```熟悉分布式与微服务体系，能够设计和实现高可用、高并发的分布式系统，具备良好的分布式架构设计经验。```
+- 🥴  ```丰富的线上问题排查经验，能够快速定位和解决各种线上故障，具备良好的问题分析和解决能力。```
+- 🤤  ```拥有较强的产品思维，和业务抽象能力，能够深入理解业务需求，为产品提供有效的技术支持。```
+- 🤔  ```良好的沟通协调能力和团队管理经验，能够与团队成员和产品经理紧密合作，有效地完成项目任务 ```
+
+</br>
+<h4 align="left"> some monologues:</h3>
+- 努力提升自己的内核，做一些虽然微小，但是很有意义的事情。
