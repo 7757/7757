@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [IFocus](http://ifs.shanenergy.com:4009/)
 
-- 🌱 I’m currently learning ** AIGC 嵌入式开发**
+- 🌱 I’m currently learning **AIGC 嵌入式开发**
 
 - 👯 I’m looking to collaborate on [Fandcode](https://fandcode.com/)
 
@@ -17,8 +17,6 @@
 
 - ⚡ l like  **旅游 DIY 听歌 天马行空的乱想 让一些硬件动起来**
 
-
-</br>
 </br>
 <h4 align="left">about me:</h3>
 
