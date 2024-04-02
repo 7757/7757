@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7757&label=Profile%20views&color=0e75b6&style=flat" alt="7757" /> </p>
 
+<h4 align="center">简历 ⬇️ </h4>
+
+- ### [Java-5年](https://github.com/7757/resume/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf)
+</br>
 
 
 - 🔭 I’m currently working on [IFocus](http://ifs.shanenergy.com:4009/)
