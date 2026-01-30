@@ -20,7 +20,6 @@
 - 👯 Open to collaboration on **[Fandcode](https://fandcode.com/)**  
 - 💬 Ask me about **Java Backend · Spring Cloud · Distributed Systems · Smart Home Architecture**  
 - 📫 Reach me at **laiyi7757@gmail.com**  
-  - WeChat: **Unitent_**  
 - ⚡ Interests: **Travel · DIY · Music · Creative Thinking · Making Hardware Come Alive**
 
 <br/>
