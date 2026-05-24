@@ -13,6 +13,10 @@
 
 <h4 align="center">📄 Resume</h4>
 
+<p align="center">
+  <a href="https://github.com/7757/7757/blob/main/resume-7y-fullstack.pdf">📄 查看/下载我的完整简历（7年全栈开发工程师）</a>
+</p>
+
 <br/>
 
 - 🔭 Currently working on **[IFocus](https://6da.com/)**  
@@ -27,3 +31,9 @@
 <h4 align="left">🧠 About Me</h4>
 
 - 🧩 **Backend & Architecture**  
+  Experienced in building high‑performance distributed systems and microservices with Spring Cloud ecosystem.
+
+- 🤖 **AI Development**  
+  - **AI & LLM Integration**: Proficient in leveraging AI/LLM APIs and tools to enhance application capabilities.  
+  - **Prompt Engineering**: Skilled in designing effective prompts to elicit desired responses from language models.  
+  - **Building AI‑Native Apps**: Experience in developing applications with AI at their core, exploring embedded intelligence and AIGC.
