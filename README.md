@@ -14,7 +14,7 @@
 <h4 align="center">📄 Resume</h4>
 
 <p align="center">
-  <a href="https://github.com/7757/7757/blob/main/resume-7y-fullstack.pdf">📄 查看/下载我的完整简历（7年全栈开发工程师）</a>
+  <a href="https://github.com/7757/7757/blob/main/7年-全栈开发工程师.pdf">📄 查看/下载我的完整简历（7年全栈开发工程师）</a>
 </p>
 
 <br/>
